@@ -1,0 +1,36 @@
+
+*{
+    box-sizing: border-box;
+}body{
+    background-color: #212121;
+    color:#fff;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace
+}
+.Container{
+    width:400px;
+    height:auto;
+    margin:2rem auto;
+}
+#weight{
+    display: block;
+    margin:10px auto;
+    padding:7px
+}
+#height{
+    display: block;
+    margin:10px auto;
+    padding:7px
+}
+.weight{
+    margin-bottom:2rem;
+}
+#button{
+    width:6rem;
+    height:2rem;
+    margin:6px auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+#result{
+    font-size: 24px;
+}
